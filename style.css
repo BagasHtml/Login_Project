@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.container {
+    background-color: gray;
+    width: 400px;
+    height: 300px;
+    border-radius: 9px;
+}
+
+#submit {
+    border: black solid 2px;
+    background-color: cadetblue;
+    width: 100px;
+    border-radius: 10px;
+    transition: 0.20s ease-in-out;
+}
+
+#submit:hover {
+    font-size: 16px;
+    border-radius: 10px;
+    color: brown;
+}
