@@ -1,6 +1,3 @@
-# Login_Project
-
-
 # Simple PHP Login & Register System
 
 A very simple PHP project that demonstrates how to create a **login** and **register** system using **PHP + MySQL (MariaDB)**.
@@ -71,23 +68,6 @@ Login_Projek/
    http://localhost/Login_Projek/index.php
    ```
 4. Try to register a new account, then login.
-
----
-
-## 📸 Screenshots
-
-### 🔹 Login Page
-
-![Login Page](screenshots/login.png)
-
-### 🔹 Register Page
-
-![Register Page](screenshots/register.png)
-
-### 🔹 Success Page
-
-![Success Page](screenshots/success.png)
-
 ---
 
 ## ⚠️ Notes
